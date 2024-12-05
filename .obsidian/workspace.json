@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Угрозы.md",
+                "file": "ГЛОСАРИК/Функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Угрозы"
+              "title": "Функции"
             }
           },
           {
@@ -189,13 +189,23 @@
               "icon": "lucide-list",
               "title": "Структура Угрозы"
             }
+          },
+          {
+            "id": "54eb3a86674b8520",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,19 +214,20 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "46a653dfd0a76e2b",
   "lastOpenFiles": [
-    "Факты.md",
+    "Добро пожаловать.md",
     "Угрозы.md",
-    "ЗОНА/Красная зона.md",
+    "Факты.md",
+    "ГЛОСАРИК/Функции.md",
+    "ЗЛОЕБАКИ/Роевый разум.md",
     "ЗОНА/Желтая зона.md",
     "ЗОНА/Зеленая зона.md",
-    "ГЛОСАРИК/Функции.md",
-    "Добро пожаловать.md",
-    "ЗЛОЕБАКИ/Роевый разум.md",
+    "ЗОНА/Красная зона.md",
     "ЗЛОЕБАКИ",
     "ЗОНА",
     "ГЛОСАРИК/Без названия.md",
